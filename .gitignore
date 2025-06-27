@@ -1,0 +1,9 @@
+#ignore all output folders
+**/output/
+
+#ignore compiled files
+*.exe
+*.o
+*.out
+
+.vscode/
